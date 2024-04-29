@@ -31,5 +31,20 @@ This repository contains a collection of notebooks and projects aimed at explori
    - The project explores various aspects of employee data, such as attrition rates, performance metrics, and employee demographics, to derive actionable insights for HR decision-making.
 
 Each notebook and project is designed to provide hands-on experience with different tools and techniques commonly used by data scientists. Whether you're a beginner or an experienced practitioner, these resources aim to enhance your skills and understanding in the field of data science.
+![image](https://github.com/ddiiyya/Data-Science/assets/167962215/58bc25e8-4fdc-4d07-b825-1a0ef430e53c)
+The dashboard in the image  uses the following HR metrics:
+
+Employee count: The total number of employees currently employed by the company.
+Employee left: The number of employees who have left the company within a specific timeframe.
+Attrition rate: A percentage calculated by dividing the number of employees who left the company during a specific timeframe by the average number of employees during that timeframe.
+Active employees: The number of currently employed minus the number who left during a specific timeframe.
+Average age: The average age of all employees.
+Department wise attrition: The number of employees who left the company by department.
+No. of Employee by Age Group: The number of employees categorized by age group.
+Age Gap: The difference between the highest and lowest age groups.
+Job satisfaction rating: The average rating employees gave regarding job satisfaction on a scale of 1 to 5.
+Education field wise attrition: The number of employees who left the company by their field of education.
+Attrition Rate By Gender For Different Age Group: The attrition rate for male and female employees in different age groups.
+HR professionals can use HR analytics dashboards to identify trends and patterns in their workforce data. This information can be used to improve a variety of HR initiatives, including recruitment, retention, training, and development. For example, an HR professional might use an HR analytics dashboard to see if there is a correlation between low job satisfaction ratings and high attrition rates. If they see a correlation, they can then investigate the reasons for the low job satisfaction ratings and develop programs to address them.
 
 Feel free to explore the notebooks and projects, and don't hesitate to provide feedback or suggestions for improvement!
