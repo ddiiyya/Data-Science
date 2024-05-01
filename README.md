@@ -21,9 +21,21 @@ This repository contains a collection of notebooks and projects aimed at explori
    - It covers topics such as loops, conditional statements, functions, and data structures like lists and dictionaries.
 
 5. **Scikit-learn Notebook**:
-   - Scikit-learn is a widely-used machine learning library in Python, and this notebook provides an introduction to its key functionalities.
+   - Scikit-learn is a widely-used machine learning library in Python, and this notebook provides an introduction to its key 
+     functionalities.
    - It includes examples of various machine learning algorithms, such as regression, classification, and clustering, using Scikit-learn.
-
+6. **Pickling**:
+   - Pickling is the process of converting Python objects into byte streams, allowing them to be serialized and saved to disk. Scikit- 
+     learn models can be pickled using Python's built-in pickle module.
+   - Pickled models can be easily stored and later loaded into memory for inference.
+7.**Joblib**:
+   - Joblib is an alternative to pickle, optimized for serialization of large NumPy arrays.
+   - It's particularly useful when working with Scikit-learn models that involve substantial data preprocessing steps or contain large 
+     arrays.
+7. **Flask**:
+   - Flask is a lightweight web framework in Python that can be used to create web applications, including APIs for model deployment.
+   - This section demonstrates how to deploy a Scikit-learn model using Flask, allowing users to make predictions through HTTP requests.
+  
 ### Projects:
 
 1. **HR Data Analysis Project in Tableau**:
